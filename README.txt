@@ -2,7 +2,7 @@ Team Names: Hrishik Kandula, Gaurav Agarwal, Rina Kaura
 
 Name of Workflow: Git Forking Workflow
 
-Description of Basic Git workflow:
+Description of Basic Git Workflow:
     All of the users work on the master branch and continually add and commit changes to the code; this workflow works well in small groups of people and when the team members do not work on any huge projects relating to the master branch; this is because they would not be creating another branch and just working on the master repository.
 
 
